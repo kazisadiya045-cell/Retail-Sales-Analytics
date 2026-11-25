@@ -56,8 +56,5 @@ Retail_Sales_Analytics_Project/
 5. Analyze trends, category mix, regional contribution, channel and segment performance.
 6. Build interactive dashboard and document recommendations.
 
-## Suggested recruiter walkthrough (60–90 seconds)
-“I built an end-to-end Retail Sales Analytics project using Python, SQL and an interactive dashboard. I prepared and validated a 6,000-row synthetic sales dataset, created business KPIs such as revenue, profit, order volume and profit margin, and analyzed trends across time, region, product category and channel. I used SQL aggregation and window functions for business questions, and Streamlit with Plotly to build a filterable dashboard. The goal was to turn transactional data into clear insights that could support inventory, pricing and sales decisions.”
-
-## Important interview honesty
-Call this a **self-initiated portfolio project using synthetic data**. Explain your own work and be ready to show the SQL queries, formulas, dashboard filters and validation steps. Do not claim the dataset represents actual company sales.
+## Suggested walkthrough
+I built an end-to-end Retail Sales Analytics project using Python, SQL and an interactive dashboard. I prepared and validated a 6,000-row synthetic sales dataset, created business KPIs such as revenue, profit, order volume and profit margin, and analyzed trends across time, region, product category and channel. I used SQL aggregation and window functions for business questions, and Streamlit with Plotly to build a filterable dashboard. The goal was to turn transactional data into clear insights that could support inventory, pricing and sales decisions.
